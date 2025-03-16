@@ -1,6 +1,6 @@
-# To-Do App
+# To-Do-App
 
-A simple and responsive To-Do app built with HTML, JavaScript, and Tailwind CSS.
+A simple and responsive To-Do-App built with HTML, JavaScript, and Tailwind CSS.
 
 ## Features
 
@@ -17,9 +17,9 @@ A simple and responsive To-Do app built with HTML, JavaScript, and Tailwind CSS.
 
 ## Installation
 
-To run the To-Do app locally:
+To run the To-Do-App locally:
 
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/todo-app.git
+   https://github.com/Pradeepks7483/To-Do-App.git
