@@ -1,4 +1,4 @@
-# To-Do-App
+# To-Do-List
 
 A simple and responsive To-Do-App built with HTML, JavaScript, and Tailwind CSS.
 
@@ -22,4 +22,4 @@ To run the To-Do-App locally:
 1. Clone this repository:
 
    ```bash
-   https://github.com/Pradeepks7483/To-Do-App.git
+   https://github.com/Pradeepks7483/To-Do-List.git
